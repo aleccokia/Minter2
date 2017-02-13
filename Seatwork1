@@ -1,0 +1,9 @@
+Step1 - Start
+Step2 - Initialize: Num1,Num2,Sum1,Diff1,Prod1,Quot1
+Step3 - Input: Num1,Num2
+Step4 - Compute: Sum1 = Num1 + Num2
+                 Diff1 = Num1 - Num2
+                 Prod1 = Num1 * Num2
+                 Quot1 = Num1 / Num2
+Step5 - Display: Sum1,Diff1,Prod1,Quot1
+Step6 - Stop
